@@ -1,2 +1,2 @@
 # Fighter Game
- Two player fighting game built in Unity with C#
+Two player 2D fighting game built in Unity with C#
