@@ -13,3 +13,7 @@ This Unity 2D Fighting Game project is a simple arcade-style fighting game in wh
 - **Health Regeneration Items:** Collectible fruit items restore a portion of the player's health when picked up.
 - **Simple Gameplay:** Focuses on straightforward mechanics with minimal complexity, suitable for casual gameplay.
 - **Sound and Visual Effects:** Includes basic sound effects and visual feedback for attacks, health pickups, and character interactions.
+
+## Author
+
+- **Development:** Alex Worthington
